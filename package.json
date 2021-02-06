@@ -1,0 +1,12 @@
+{
+  "name": "cra-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "yarn workspace @monorepo/app-1 start"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT"
+}
