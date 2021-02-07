@@ -1,5 +1,5 @@
 import React from 'react';
-import { SharedComponent } from '@cra-monorepo/shared-components/src';
+import { SharedComponent } from '@cra-monorepo/shared-components';
 import './App.css';
 
 function App() {
