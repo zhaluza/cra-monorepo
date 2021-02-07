@@ -1,6 +1,10 @@
 # CRA-Monorepo
 
-## An example of a simple frontend monorepo containing a React app and a folder of shared components. This pattern can be used to create a component library used by other apps or microfrontends contained in the same repo.
+### Summary
+
+An example of a simple frontend monorepo containing a React app and a folder of shared components.
+This pattern can be used to create a component library used by other apps or microfrontends
+contained in the same repo.
 
 ### Tech
 
