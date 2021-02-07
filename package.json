@@ -3,7 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "start": "yarn workspace @monorepo/app-1 start"
+    "start": "yarn workspace @monorepo/app-1 start",
+    "build:app": "yarn workspace @monorepo/app-1 build"
   },
   "workspaces": [
     "packages/*"
